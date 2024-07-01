@@ -1,0 +1,4 @@
+Prompt the user to enter the current time in hours (0-23)
+Prompt the user to enter the number of hours to wait for the alarm
+future_time = (current_time + hours_to_wait) % 24
+Output the future time message in 24-hour format

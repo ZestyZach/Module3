@@ -1,0 +1,9 @@
+Prompt user to input cost of food in variable  food_cost
+
+tip_cost = food_cost * 0.18
+tax_cost = food_cost * 0.07
+total_cost = food_cost + tip_cost + tax_cost
+
+Output tip message
+Output tax message 
+Output total message
